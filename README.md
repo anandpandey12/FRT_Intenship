@@ -1,7 +1,7 @@
-# FRT_Intenship
-I build a website to provide Information about Covid-19 
+# Covid19InfoProtal(FRT_Intenship_Project)
+I build a website to provide Information about Covid-19. 
 In this Website I use Azure Bot and Web App. 
-In this website user can see the information about Covid-19 and can also ask quetion releted to covid 19 using chat bot which i build using Microsoft Azure Bot service
+In this website user can see the information about Covid-19 and they can also ask question related to covid 19 using chat bot which i build using Microsoft Azure Bot service
 
 
 # Technology Used:
